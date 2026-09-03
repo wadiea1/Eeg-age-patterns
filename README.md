@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8eef7,50:cfe0f5,100:b5cdea&height=200&section=header&text=EEG%20Age%20Patterns&fontSize=52&fontColor=1a1a2e&animation=fadeIn&fontAlignY=35&desc=Motif%20Discovery%20Pipeline%20for%20Developmental%20Brainwave%20Analysis&descSize=16&descAlignY=55&descColor=2d3748" width="100%"/>
+<img src="https://raw.githubusercontent.com/wadiea1/Eeg-age-patterns/main/.github/banner.svg" alt="EEG Age Patterns — Motif Discovery Pipeline" width="100%"/>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -218,5 +218,4 @@ Software Engineering — Braude College of Engineering
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b5cdea,50:cfe0f5,100:e8eef7&height=120&section=footer" width="100%"/>
 </div>
